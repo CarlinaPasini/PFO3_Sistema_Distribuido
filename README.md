@@ -24,3 +24,6 @@ Para simular este entorno distribuido de forma local en su máquina de desarroll
 1. **Terminal 1 - Levantar el Servidor Orquestador:**
    ```bash
    python servidor.py
+2. **Terminal 2 - Ejecutar el Cliente Simulador:**
+   ```bash
+   python cliente.py
